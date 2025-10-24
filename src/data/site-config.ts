@@ -33,8 +33,8 @@ export type SiteConfig = {
     footerNavLinks?: Link[];
     socialLinks?: Link[];
     hero?: Hero;
-    subscribe?: Subscribe;
- 
+
+    projectsPerPage?: number;
 };
 
 const siteConfig: SiteConfig = {
@@ -55,7 +55,7 @@ const siteConfig: SiteConfig = {
             text: 'Projects',
             href: '/projects'
         },
-    
+
     ],
     footerNavLinks: [
         {
@@ -101,7 +101,7 @@ I have experience across diverse sectors such as energy, HR/payroll, healthcare 
         ]
     },
 
- 
+    projectsPerPage: 8
 };
 
 export default siteConfig;
