@@ -54,6 +54,10 @@ const siteConfig: SiteConfig = {
             text: 'Projects',
             href: '/projects'
         },
+           {
+            text: 'GitHud',
+            href: 'https://github.com/dheirylopez'
+        },
 
     ],
     footerNavLinks: [
