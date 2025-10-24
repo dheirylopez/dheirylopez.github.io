@@ -33,13 +33,12 @@ export type SiteConfig = {
     footerNavLinks?: Link[];
     socialLinks?: Link[];
     hero?: Hero;
-
     projectsPerPage?: number;
 };
 
 const siteConfig: SiteConfig = {
     website: 'https://dheirylopez.github.io',
-    title: 'Hello & Welcome! Explore My Software Projects!',
+    title: 'Dheiry López',
     subtitle: ' ',
     description: 'XXX',
     image: {
@@ -84,7 +83,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: '',
+        title: 'Hello & Welcome! Explore My Software Projects!',
         text: `Hi! I’m Dheiry López, a Senior Software Engineer on Upwork, dedicated to developing impactful software solutions. I thrive on problem-solving, collaboration, and continuous learning, creating software that is reliable, functional, and aligned with both user and business needs.<br/><br/>
 With 7+ years of experience, I specialize in designing and implementing scalable, high-performance applications. My expertise also includes building RESTful APIs, designing microservices architectures, and managing AWS cloud infrastructure at an intermediate level. Throughout my career, I’ve successfully led system migrations and cross-functional projects that improved performance, user satisfaction, and delivery efficiency.<br/><br/>
 I have experience across diverse sectors such as energy, HR/payroll, healthcare manufacturing, and technology, but I can adapt my skills to any other industry. On Upwork, I focus on delivering clean, maintainable code, reliable communication, and results that align perfectly with my clients’ goals.`,
