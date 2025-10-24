@@ -40,9 +40,9 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     website: 'https://dheirylopez.github.io',
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Dheiry Lopez',
+    subtitle: 'Here it is my personal blog  ',
+    description: 'XXX',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -78,28 +78,25 @@ const siteConfig: SiteConfig = {
             text: 'Terms',
             href: '/terms'
         },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
+       
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/dheiry-lopez-22665aa0/'
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://www.instagram.com/createsoftlopez?igsh=Ym80cGhueDc0dmRl'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'UpWork',
+            href: 'https://www.upwork.com/freelancers/~01d1eb273b35ecee7c'
         }
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: "👋 Hi! I’m Dheiry Lopez, a Senior Software Engineer with 7+ years of experience in web development. I specialize in designing and implementing scalable, high-performance applications using C#, ASP.NET, JavaScript, and Angular. My expertise also includes building RESTful APIs and managing AWS cloud infrastructure at an intermediate level. Throughout my career, I’ve successfully led system migrations and cross-functional projects that improved performance, user satisfaction, and delivery efficiency. I’ve worked across diverse sectors — energy systems, human resources and payroll, manufacturing within the healthcare industry, and technology solutions— helping companies modernize their systems and accelerate growth. On Upwork, I focus on delivering clean, maintainable code, reliable communication, and results that align perfectly with my clients’ goals. Let’s build something impactful together!.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
