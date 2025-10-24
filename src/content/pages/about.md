@@ -10,31 +10,28 @@ seo:
 
 ![Alt text for image](/about.jpeg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Dheiry López - Senior Software Developer | Full-Stack & Scalable Solutions | Dominican Republic
 
-## Ethan Donovan - Web Developer based in Estonia
-
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Greetings!** I’m Dheiry López, a passionate software engineer based in the [Dominican Republic](https://en.wikipedia.org/wiki/Dominican_Republic). I specialize in developing robust, scalable software solutions, leveraging technologies such as C#, ASP.NET, JavaScript, Angular, RESTful APIs, microservices, and AWS cloud infrastructure. With experience across sectors like energy, payroll/HR, healthcare manufacturing, and technology, I combine problem-solving skills with a commitment to delivering high-quality solutions that meet both business and user needs. I thrive on transforming ideas into functional systems and fostering seamless collaboration across teams.
 
 ## Skills and Expertise
-
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+I specialize in developing robust and scalable software solutions, leveraging modern technologies to solve complex problems. My expertise includes designing and implementing **RESTful APIs** and microservices architectures to ensure seamless integration, high performance, and maintainable systems. I also work with **C#**, **ASP.NET**, **JavaScript**, **Angular**, and **AWS cloud infrastructure**, delivering software that meets both business and user needs while ensuring reliability and efficiency.
 
 ## Innovation and Problem-Solving
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+I thrive on solving complex problems and turning ideas into functional software solutions. Whether it’s optimizing performance, implementing new features, or troubleshooting issues, I approach every challenge with enthusiasm and a commitment to delivering high-quality results that meet both user and business needs.
 
 ## Global Perspective, Local Impact
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+Living in the Dominican Republic has shaped my perspective as a software engineer. Working in a country with diverse industries — from energy and manufacturing to healthcare and technology — has taught me the importance of developing digital solutions that are both practical and adaptable. I value creating software that meets local needs while maintaining a global, future-ready vision.
 
 ## Continuous Learning
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+The innovative world of technology inspires me to keep learning and growing. I’m passionate about exploring new tools and emerging technologies that enhance both the functionality and design of the solutions I create.
 
 ## Collaboration and Communication
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+I believe in the power of collaboration and clear communication. Whether working with clients, designers, or fellow developers, I prioritize transparency and teamwork to ensure every project’s success.
 
 ## Get in Touch
 
