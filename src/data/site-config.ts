@@ -5,7 +5,7 @@ import type { SiteConfig } from '../types';
 const siteConfig: SiteConfig = {
     website: 'https://dheirylopez.github.io',
     avatar: {
-        src: 'src/assets/images/avatar.jpg',
+        src: 'src/assets/images/Portada.jpg',
         alt: 'Ethan Donovan'
     },
     title: 'Dante',
