@@ -4,7 +4,7 @@ description: SPN is an enterprise payroll and employee management system impleme
 publishDate: '2020'
 seo:
   image:
-    src: '../../assets/images/project-spn.jpg'
+    src: '../../assets/images/spn.jpg'
     alt: SPN system preview
 ---
 
