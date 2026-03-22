@@ -2,7 +2,7 @@
 title: 'Part Number Watcher – Validation and Traceability Enhancement'
 description: Internal web application enhancement focused on improving part validation, traceability, and scan accuracy by reducing false rejections, validating vendor and receipt status, and optimizing workflow efficiency across multiple validation modules.
 publishDate: '2024'
-
+isFeatured: true
 ---
 
 

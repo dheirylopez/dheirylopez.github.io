@@ -2,7 +2,7 @@
 title: 'Control  – Material Control and Traceability Platform'
 description: Internal web application developed to control material supply, returns, adjustments, and traceability across production workflows, improving inventory visibility, auditability, and operational control.
 publishDate: '2025'
-
+isFeatured: true
 ---
 
 
