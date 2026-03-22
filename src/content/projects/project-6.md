@@ -1,9 +1,15 @@
 ---
 title: 'RPA Bot Automation'
 description: Automation solution designed to monitor a customer service inbox, extract attachments, organize files in local folders, and send structured data to a database for faster processing and better information control.
-publishDate: '2021'
+
 isFeatured: true
+seo:
+  image:
+    src: '../../assets/images/RPA.jpg'
+    alt: RPA
 ---
+
+![FCC](../../assets/images/RPA.jpg)
 
 
 

@@ -1,8 +1,14 @@
 ---
 title: 'FCC – Expiration Control and Material Traceability System'
 description: Internal web application designed to manage critical materials, validate expiration dates, improve traceability, and support operational compliance through controlled workflows, role-based access, and reporting.
-publishDate: '2025'
 isFeatured: true
+seo:
+  image:
+    src: '../../assets/images/FCC.jpg'
+    alt: FCC
+---
+
+![FCC](../../assets/images/FCC.jpg)
 ---
 
 
