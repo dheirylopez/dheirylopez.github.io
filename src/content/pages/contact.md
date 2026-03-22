@@ -11,7 +11,7 @@ _Email:_
 Feel free to drop me an email at [dheirylopez@gmail.com](mailto:dheirylopez@gmail.com), and I'll do my best to respond as soon as possible.
 
 _Phone:_
-Feel free to call me at [809-409-8158]. I’ll be happy to connect with you.
+Feel free to call me at [809-409-8158](809-409-8158). I’ll be happy to connect with you.
 
 
 _Social Media:_
