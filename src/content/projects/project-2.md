@@ -1,6 +1,7 @@
 ---
 title: 'Nomina y Personal – Payroll and Employee Management System Implementation'
 description: SPN is an enterprise payroll and employee management system implemented to centralize HR operations, employee records, absences, vacations, contracts, and payroll-related processes through a structured and scalable platform.
+publishDate: '2020'
 isFeatured: true
 seo:
   image:

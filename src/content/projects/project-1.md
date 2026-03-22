@@ -1,7 +1,7 @@
 ---
-title: 'Sistema de Energia– Telemetered Energy Loss Management System'
-description: STL is a desktop-based enterprise system developed to monitor, analyze, and manage energy loss across telemetered meters, helping improve operational control, reporting, and decision-making in the energy distribution process.
-
+title: 'Sistema de Energia – Telemetered Energy Loss Management System'
+description: Sistema de Energia is a desktop-based enterprise system developed to monitor, analyze, and manage energy loss across telemetered meters, helping improve operational control, reporting, and decision-making in the energy distribution process.
+publishDate: '2017'
 isFeatured: true
 seo:
   image:
@@ -13,7 +13,7 @@ seo:
 
 ## Project Overview
 
-Sistema Energia (Telemetered Energy Loss Management System) is a business-critical desktop application designed to support the monitoring, analysis, and operational management of energy loss in telemetered meters. The platform was created to help energy teams identify anomalies, track loss patterns, and make data-driven decisions to improve control over energy distribution.
+Sistema de Energia (Telemetered Energy Loss Management System) is a business-critical desktop application designed to support the monitoring, analysis, and operational management of energy loss in telemetered meters. The platform was created to help energy teams identify anomalies, track loss patterns, and make data-driven decisions to improve control over energy distribution.
 
 The system centralizes multiple operational areas involved in energy loss analysis, allowing users to work with structured data, sector-based reports, maintenance processes, and security controls from a single solution. Its modular structure made it easier to support different departments and operational workflows while maintaining system scalability and maintainability.
 
