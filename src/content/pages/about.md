@@ -8,7 +8,7 @@ seo:
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](../../assets/images/perfil.jpg)
+
 
 
 
