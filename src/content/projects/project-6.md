@@ -1,61 +1,95 @@
 ---
-title: FitQuest - AR Fitness Adventure Game
-description: This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
-publishDate: 'Dec 28 2023'
+title: 'RPA Bot Automation'
+description: Automation solution designed to monitor a customer service inbox, extract attachments, organize files in local folders, and send structured data to a database for faster processing and better information control.
+publishDate: '2021'
 seo:
   image:
-    src: '../../assets/images/project-6.jpg'
+    src: '../../assets/images/project-email-bot.jpg'
+    alt: Customer Service Email Automation Bot preview
 ---
 
-![Project preview](../../assets/images/project-6.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
-**Project Overview:**
-FitQuest is an augmented reality (AR) fitness adventure game that revolutionizes traditional workout routines by combining physical exercise with immersive gameplay. This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
+## Project Overview
+
+This project consisted of developing an automation bot designed to streamline the processing of customer service emails. The solution continuously monitored a service mailbox, identified incoming emails with relevant attachments, downloaded the files, stored them in organized folders, and sent the extracted data to a database for further processing and control.
+
+The main purpose of the bot was to reduce manual work, improve response efficiency, and ensure that customer-submitted information could be captured and stored in a more reliable and structured way. By automating the reception and classification of files, the solution helped standardize operations and minimize the risk of human error during repetitive administrative tasks.
+
+This project provided value by transforming a manual email-handling process into an automated workflow capable of improving traceability, file organization, and database registration.
 
 ## Objectives
 
-1. Develop a fitness app that leverages augmented reality to make workouts more enjoyable and interactive.
-2. Integrate real-world locations and landmarks into the game, turning everyday environments into exciting adventure settings.
-3. Motivate users to stay active and maintain a consistent fitness routine by blending physical activity with a captivating storyline.
+1. Automate the review of incoming emails in a customer service mailbox.
+2. Detect and download attached files from relevant emails.
+3. Organize processed files automatically into designated folders.
+4. Extract and transfer useful data into a database for tracking and processing.
+5. Reduce manual workload and improve operational efficiency.
+6. Improve traceability and control over files received through email.
+7. Minimize human error in repetitive data-entry and document-handling tasks.
 
-## Features
+## Key Features
 
-1. **Augmented Reality Workouts:**
+### 1. Email Monitoring
+The bot was designed to continuously review a customer service email inbox and identify new incoming messages that matched the required processing conditions.
 
-- FitQuest utilizes AR technology to overlay game elements onto the real-world environment, creating an immersive and dynamic workout experience.
-- Users engage in exercises that align with the game's storyline while interacting with virtual elements superimposed on their surroundings.
+### 2. Attachment Extraction
+Once a valid email was detected, the bot downloaded the attached files automatically, eliminating the need for manual file retrieval.
 
-2. **Interactive Storyline and Challenges:**
+### 3. File Organization
+The solution stored attachments in predefined folders, helping maintain a more organized document structure for later use and consultation.
 
-- The app features an adventure-driven storyline where users embark on quests and missions to complete fitness challenges.
-- Challenges include cardio exercises, strength training, and flexibility workouts, seamlessly integrated into the game's narrative.
+### 4. Data Registration in Database
+Relevant information obtained from the email and attached files was sent to a database, allowing the business to keep a structured record of processed requests and received documents.
 
-3. **Real-World Landmarks Integration:**
+### 5. Process Automation
+The workflow reduced repetitive manual tasks by automatically handling email review, file download, file storage, and database registration in a single process.
 
-- FitQuest incorporates real-world landmarks and locations as key elements in the game, turning parks, streets, and other environments into virtual fitness arenas.
-- Users explore these locations while completing fitness challenges and unlocking new levels.
-
-4. **Multiplayer Mode and Team Challenges:**
-
-- Users can connect with friends or join teams to participate in multiplayer challenges.
-- Team-based missions encourage collaboration and friendly competition, enhancing the social aspect of fitness.
-
-5. **Fitness Tracking and Progress Monitoring:**
-
-- The app includes a comprehensive fitness tracking system that monitors users' progress, calories burned, and achievements.
-- Users can set personalized fitness goals and track their improvement over time.
+### 6. Operational Traceability
+By storing both files and structured records, the solution improved visibility into what had been received, processed, and saved.
 
 ## Technology Stack
 
-- Frontend: Unity for AR game development.
-- Backend: Node.js for handling server-side logic and real-time data synchronization.
-- Database: MongoDB for storing user profiles, fitness data, and game progress.
-- AR Integration: ARCore (Android) and ARKit (iOS) for augmented reality features.
+- **Backend / Automation Logic:** C#
+- **Email Processing:** Automation AnyWhere RPA 
+- **Database:** SQL Server
+- **Data Handling:** File extraction, structured data registration, and database insertion
+- **Process Type:** Workflow automation / back-office process automation
 
-## Outcome
+## My Contribution
 
-FitQuest has transformed the fitness landscape by merging physical activity with immersive gaming experiences. Users not only enjoy staying active but also find motivation in the storyline and challenges, creating a unique and entertaining approach to maintaining a healthy lifestyle.
+I designed and developed the automation logic for this solution, focusing on reducing manual effort in customer service operations through email and file-processing automation.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+My involvement included:
+
+- Developing the bot to monitor incoming emails automatically
+- Implementing logic to detect and download email attachments
+- Creating the file-handling flow to store documents in organized folders
+- Sending extracted or related information to a database for structured storage
+- Supporting process validation to ensure the workflow was stable and reliable
+- Improving operational efficiency by replacing manual review and registration tasks with automated processing
+
+This project allowed me to apply automation, file management, and database integration skills to solve a practical business problem in a more efficient way.
+
+## Outcome & Impact
+
+The automation bot improved the handling of customer service emails by reducing manual intervention, organizing attachments automatically, and ensuring that relevant information was stored in the database in a timely and structured way.
+
+Its impact included:
+
+- Faster processing of incoming service emails
+- Reduced manual workload for administrative teams
+- Better organization of received files
+- More reliable database registration of incoming information
+- Improved traceability and operational control
+- Lower risk of human error in repetitive tasks
+
+Overall, the project helped transform a repetitive manual process into a more efficient, scalable, and controlled automated workflow.
+
+## Highlights
+
+- Automated customer service email monitoring solution
+- Downloaded and organized email attachments automatically
+- Sent processed information to a database
+- Reduced manual workload and improved operational efficiency
+- Built as a practical workflow automation solution for back-office operations
