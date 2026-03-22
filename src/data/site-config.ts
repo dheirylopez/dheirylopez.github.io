@@ -1,18 +1,18 @@
-import avatar from '/src/assets/images/avatar.jpg';
-import hero from '/src/assets/images/hero.jpg';
+import avatar from '/src/assets/images/Perfil2.jpg';
+import hero from '/src/assets/images/Portada.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
     website: 'https://dheirylopez.github.io',
  avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'Dheiry Lopez'
     },
     title: 'Dheiry Lopez',
     subtitle: 'Minimal Astro.js theme',
     description: 'portafolio Dheiry',
         image: {
-        src: '/dante-preview.jpg',
+        src: '/Perfil2.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
