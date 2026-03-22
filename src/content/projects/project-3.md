@@ -5,15 +5,15 @@ publishDate: '2025'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/numeroParte.jpg'
+    src: '../../assets/images/NP.jpg'
     alt: Number Part
 ---
 
-![Number Part](../../assets/images/numeroParte.jpg)
+![Number Part](../../assets/images/NP.jpg)
 
 ## Project Overview
 
-Part Number Watcher is an internal validation and traceability solution used in manufacturing operations to verify part-related information during relabel and receiving workflows. The enhancement focused on reducing false rejections, improving validation accuracy, and streamlining the scanning process by checking vendor status, receipt status, and previously validated records before allowing users to continue. The business goal was to reduce unnecessary rescans and improve operational efficiency during validation tasks. :contentReference[oaicite:2]{index=2}
+Part Number Watcher is an internal validation and traceability solution used in manufacturing operations to verify part-related information during relabel and receiving workflows. The enhancement focused on reducing false rejections, improving validation accuracy, and streamlining the scanning process by checking vendor status, receipt status, and previously validated records before allowing users to continue. The business goal was to reduce unnecessary rescans and improve operational efficiency during validation tasks. 
 
 ## Objectives
 
