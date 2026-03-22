@@ -9,7 +9,7 @@ const siteConfig: SiteConfig = {
         alt: 'Dheiry Lopez'
     },
     title: 'Dheiry Lopez',
-    subtitle: 'Minimal Astro.js theme',
+    subtitle: 'Software Engineer',
     description: 'portafolio Dheiry',
         image: {
         src: '/Perfil2.jpg',
@@ -39,7 +39,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
       {
             text: 'Linkedin',
-            href: 'www.linkedin.com/in/dheiry-lopez-22665aa0'
+            href: 'https://www.linkedin.com/in/dheiry-lopez-22665aa0/'
         },
         {
             text: 'Upwork',
