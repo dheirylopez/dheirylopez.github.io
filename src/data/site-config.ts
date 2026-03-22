@@ -76,7 +76,7 @@ const siteConfig: SiteConfig = {
             action: '#'
         }
     },
-    postsPerPage: 8,
+    
     projectsPerPage: 8
 };
 
