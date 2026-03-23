@@ -48,10 +48,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Github',
             href: 'https://github.com/dheirylopez'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://www.instagram.com/lopezdheiry?igsh=YmRjd3NxNmloZW5o&utm_source=qr'
         }
     ],
     hero: {

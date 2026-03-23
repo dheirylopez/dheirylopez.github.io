@@ -1,5 +1,5 @@
 ---
-title: 'Nomina y Personal – Payroll and Employee Management System Implementation'
+title: 'Payroll and Employee - Management System Implementation'
 description: SPN is an enterprise payroll and employee management system implemented to centralize HR operations, employee records, absences, vacations, contracts, and payroll-related processes through a structured and scalable platform.
 publishDate: '2020'
 isFeatured: true
@@ -13,7 +13,7 @@ seo:
 
 ## Project Overview
 
-Nomina y Personal is an enterprise software solution focused on payroll administration and employee management. The system was designed to centralize employee information, HR documentation, absences, vacations, contracts, personnel actions, and operational controls within a single platform.
+Payroll and Employee is an enterprise software solution focused on payroll administration and employee management. The system was designed to centralize employee information, HR documentation, absences, vacations, contracts, personnel actions, and operational controls within a single platform.
 
 As part of this project, I contributed to the implementation of the software with the client, combining technical execution, user training, and project coordination activities. My participation included SQL Server data loading and administration, implementation support, user onboarding, and regular follow-up meetings aligned with a Scrum-style workflow.
 
