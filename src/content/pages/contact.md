@@ -15,4 +15,4 @@ Feel free to call me at [809-409-8158](809-409-8158). I’ll be happy to connect
 
 
 _Social Media:_
-Connect with me on social media as well. Find me on [Instagam](https://www.instagram.com/lopezdheiry?igsh=YmRjd3NxNmloZW5o&utm_source=qr) or [LinkedIn](https://www.linkedin.com/in/dheiry-lopez-22665aa0/).
+Connect with me on social media as well. Find me on [Upwork](https://www.upwork.com/freelancers/~01d1eb273b35ecee7c?mp_source=share) or [LinkedIn](https://www.linkedin.com/in/dheiry-lopez-22665aa0/).
